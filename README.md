@@ -15,7 +15,11 @@
 
 - Login in/ sign up page
     - Different header thean the browse page(only netflix logo)
-    - Sign in / sign up page
+    - Sign in / sign up (form) page
+        # challenge for us/learning
+        - can we convert the same sign in form to sign up for?
+            - what does our sign up form contain? few extra fields like name,etc.
+            - so, when someone clicks on this signup : likes thge toggle functionality. with useState
     - redirect to Browse page
     - Footer
 
@@ -30,3 +34,7 @@
 - NetflixGPT
     - Search bar
     - Movie Suggestions
+
+-How to do Validations in the form
+- use library called : FORMIK in react, when fields becomes large than handling validation and errors becomes difficult.
+- but in this we see how to validations in this from scratch.
